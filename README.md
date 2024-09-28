@@ -2,6 +2,7 @@
 
 This repository contains code for visualizing the trajectories of sequences from the [7Scenes Dataset](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/). The visualization helps in analyzing the camera poses and movement paths across the dataset sequences.
 
+![7Scenes Dataset](https://github.com/Husseinhhameed/Visualize-7scence-Dataset-Trajectory/blob/main/7-scenes-7-scenes-overview.png)
 
 ## Project Overview
 
